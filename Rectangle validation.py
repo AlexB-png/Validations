@@ -25,4 +25,4 @@ while y == 1:
 total=0
 total=width*length
 os.system('CLS')
-print("The area of the rectangle is",total)
+print("The area of the rectangle is",total)...
