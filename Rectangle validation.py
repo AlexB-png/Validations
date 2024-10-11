@@ -26,3 +26,5 @@ total=0
 total=width*length
 os.system('CLS')
 print("The area of the rectangle is",total)
+
+#Prints area of a rectangle#
